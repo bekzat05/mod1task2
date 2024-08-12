@@ -1,0 +1,29 @@
+From db6665af745d72516e9ab273fde5fd2ce5ff04d4 Mon Sep 17 00:00:00 2001
+From: bekzat05 <aitbekov.01@gmail.com>
+Date: Wed, 21 Aug 2024 12:03:04 +0500
+Subject: [PATCH] modified two lines in firstFile
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..5c28cb6 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,10 +1,10 @@
+ 1
+ 2
+-3
++3 modified line from step 7
+ 4
+ 5
+ 6
+-7
++7 another modified line from step 7
+ 8
+ 9
+ 10
+-- 
+2.39.3 (Apple Git-146)
+
