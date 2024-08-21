@@ -2,9 +2,9 @@
 2
 3 modified line from step 7
 4
-5
+5 different modification from step 8
 6
 7 another modified line from step 7
 8
-9
+9 different modification from step 8 again
 10
